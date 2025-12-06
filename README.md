@@ -124,5 +124,5 @@ language-classification/
 
 ## 👨‍💻 Author
 
-Developed by Kenny Janson
-Project: Language Classification using Transformer Models
+- Developed by Kenny Janson
+- Project: Language Classification using Transformer Models
